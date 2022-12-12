@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj": {}
+    "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_Semestral\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj": {}
   },
   "projects": {
-    "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj": {
+    "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_Semestral\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj",
+        "projectUniqueName": "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_Semestral\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj",
         "projectName": "BCSH2_SemestralniPrace_Semakou",
-        "projectPath": "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj",
+        "projectPath": "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_Semestral\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\obj\\",
+        "outputPath": "D:\\Studium------------------------\\BCSH2\\SemestralWork\\BCSH2_Semestral\\BCSH2_SemestralniPrace_Semakou\\BCSH2_SemestralniPrace_Semakou\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
