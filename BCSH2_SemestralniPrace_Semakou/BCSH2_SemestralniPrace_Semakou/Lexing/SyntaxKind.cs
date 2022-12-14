@@ -32,19 +32,32 @@ namespace BCSH2_SemestralniPrace_Semakou.Lexing
         NumberToken,
         WhitespaceToken,
 
-        //keywords 
+        //Keywords 
         IfToken,
         ElseToken,
         ElseIfToken,
         DoToken,
         WhileToken,
-        ConstToken,
+        SemicolonToken,
         DoubleToken,
+        DoubleKeywordToken,
+        StringKeywordToken,
         StringToken,
-        FalseToken,
+        VarToken,
+        ConstToken,
         TrueToken,
+        FalseToken,
 
-      
 
+
+        //Expressions
+        NumberExpression,
+        BinaryExpression,
+        ParenthesizedExpression,
+        Block,
+        DefinitionSyntax,
+        AssignmentSyntax,
+        AccessVariableSyntax,
+        FunctionCallSyntax
     }
 }

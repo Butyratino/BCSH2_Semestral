@@ -4,6 +4,7 @@ using System.Linq;
 
 namespace BCSH2_SemestralniPrace_Semakou.Lexing
 {
+
     class SyntaxToken : SyntaxNode
     {
         public SyntaxToken(SyntaxKind type, int position, string text, object value)
@@ -14,17 +15,12 @@ namespace BCSH2_SemestralniPrace_Semakou.Lexing
             Value = value;
         }
 
-        
-
         public override SyntaxKind Kind { get; }
 
         public int Position { get; }
         public string Text { get; }
         public object Value { get; }
 
-        public override IEnumerable<SyntaxNode> GetChildren()
-        {
-            return Enumerable.Empty<SyntaxNode>();
-        }
     }
+
 }
