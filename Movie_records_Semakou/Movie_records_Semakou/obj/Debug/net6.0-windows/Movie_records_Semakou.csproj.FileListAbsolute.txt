@@ -1,0 +1,7 @@
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.csproj.AssemblyReference.cache
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.Form1.resources
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.csproj.GenerateResource.cache
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.AssemblyInfoInputs.cache
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.AssemblyInfo.cs
+D:\zzz\Studium------------------------\BCSH\C# projects\Movie_records_Semakou\Movie_records_Semakou\obj\Debug\net6.0-windows\Movie_records_Semakou.csproj.CoreCompileInputs.cache
