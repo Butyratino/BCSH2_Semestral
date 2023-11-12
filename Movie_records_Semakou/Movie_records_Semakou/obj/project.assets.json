@@ -1158,11 +1158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\Movie_records_Semakou\\Movie_records_Semakou\\Movie_records_Semakou.csproj",
+      "projectUniqueName": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\BCSH2_Semestral\\Movie_records_Semakou\\Movie_records_Semakou\\Movie_records_Semakou.csproj",
       "projectName": "Movie_records_Semakou",
-      "projectPath": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\Movie_records_Semakou\\Movie_records_Semakou\\Movie_records_Semakou.csproj",
+      "projectPath": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\BCSH2_Semestral\\Movie_records_Semakou\\Movie_records_Semakou\\Movie_records_Semakou.csproj",
       "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\Movie_records_Semakou\\Movie_records_Semakou\\obj\\",
+      "outputPath": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\BCSH2_Semestral\\Movie_records_Semakou\\Movie_records_Semakou\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",

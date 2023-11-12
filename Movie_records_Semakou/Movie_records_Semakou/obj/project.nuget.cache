@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yRNnSEhhl2BS9WNc9sm6OcldB+gowRHb7oxjCCQhALvIvBb16GiucYeU9V1UklnuVZ4yHmvwrdP9msE84PZ7bQ==",
+  "dgSpecHash": "UfN6zWZKwqQGD7xIAFNFDD9YKfGg0WC27Wpbgez0NeTY6WbO1aKaOzGo40xhl2bSzq6FyPVzCdmDwff1CnO2vw==",
   "success": true,
-  "projectFilePath": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\Movie_records_Semakou\\Movie_records_Semakou\\Movie_records_Semakou.csproj",
+  "projectFilePath": "D:\\zzz\\Studium------------------------\\BCSH\\C# projects\\BCSH2_Semestral\\Movie_records_Semakou\\Movie_records_Semakou\\Movie_records_Semakou.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
