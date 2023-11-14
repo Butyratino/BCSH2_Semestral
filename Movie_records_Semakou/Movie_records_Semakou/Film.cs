@@ -61,6 +61,11 @@ namespace Movie_records_Semakou
         public DbSet<Zanr> Zanry { get; set; }
         public DbSet<Uzivatel> Uzivatele { get; set; }
 
+        public FilmDbContext()
+        {
+            Database.EnsureCreated();
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite("Filename=FilmyDatabase.db");

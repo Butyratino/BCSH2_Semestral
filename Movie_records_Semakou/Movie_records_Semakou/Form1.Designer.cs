@@ -75,6 +75,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(194, 29);
             textBox1.TabIndex = 4;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -83,6 +84,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(194, 29);
             textBox2.TabIndex = 5;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // dataGridView1
             // 
@@ -101,6 +103,7 @@
             button1.TabIndex = 7;
             button1.Text = "Insert";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -120,6 +123,7 @@
             button3.TabIndex = 9;
             button3.Text = "Delete";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // Form1
             // 
@@ -153,5 +157,7 @@
         private Button button1;
         private Button button2;
         private Button button3;
+
+
     }
 }
